@@ -100,13 +100,13 @@
     <string>忘记密码？</string>
    </property>
   </widget>
-  <widget class="QTextEdit" name="textEdit">
+  <widget class="QTextBrowser" name="textBrowser">
    <property name="geometry">
     <rect>
      <x>240</x>
-     <y>40</y>
-     <width>251</width>
-     <height>121</height>
+     <y>30</y>
+     <width>256</width>
+     <height>131</height>
     </rect>
    </property>
   </widget>

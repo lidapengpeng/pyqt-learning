@@ -1,0 +1,3 @@
+([('10-01-login',
+   '/Users/dapeng/Desktop/PyQT/Last-demo/dist/10-01-login',
+   'EXECUTABLE')],)
